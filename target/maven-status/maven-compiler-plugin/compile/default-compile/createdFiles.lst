@@ -1,0 +1,6 @@
+com\tcloudata\pojo\TbStudent.class
+com\tcloudata\service\impl\StudentServiceImpl.class
+com\tcloudata\controller\StudentController.class
+com\tcloudata\dao\StudentRepository.class
+com\tcloudata\service\StudentService.class
+com\tcloudata\SpringApplication.class
